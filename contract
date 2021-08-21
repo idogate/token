@@ -4,12 +4,12 @@
 pragma solidity ^0.6.2;
 
 // Hold and get rewarded in WBNB
-// 4% LP, 4% WBNB REWARDS, 2% MARKETING & CASH INJECTION | 15% TAX
+// 4% LP, 4% WBNB REWARDS, 2% MARKETING & CASH INJECTION | 10% TAX
 
 
 pragma solidity ^0.6.2;
 
- * @dev Interface of the ERC20 standard as defined in the EIP.
+ /* @dev Interface of the ERC20 standard as defined in the EIP.
  */
 interface IERC20 {
     /**
